@@ -1,4 +1,4 @@
 {
-    "saveEndpoint": "https://imageworxapi.azurewebsites.net/api/save",
+    "saveEndpoint": "https://rpsuploader.azurewebsites.net/api/save",
     "maxSubmitCount": 4
 }
